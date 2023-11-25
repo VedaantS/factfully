@@ -11,5 +11,5 @@ written in html and javascript, currently a chrome extension. part of riverdale 
 TODO: 
 - get adblocker more effective
 - change from highlight and fact-check to automatic fact checking
-- website summary in top left
+- use extension window to give reliability score on the current website
 - start work on social media tool
