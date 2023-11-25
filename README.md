@@ -6,4 +6,4 @@ It takes a three-pronged approach: it
 2. warns users after detecting potentially misleading sponsored posts on social media, and
 3. highlights any potentially false claims in an article the user is reading.
 
-written in html and javascript. part of riverdale country school's capstone dev project. 
+written in html and javascript, currently a chrome extension. part of riverdale country school's capstone dev project.
