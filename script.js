@@ -1,7 +1,7 @@
 chrome.contextMenus.removeAll(() => {
   chrome.contextMenus.create({
     id: "Site_blocker_4",
-    title: "Run fact check",
+    title: "Run fact check!!!",
     contexts: ["all", "page", "selection"],
   });
 });
